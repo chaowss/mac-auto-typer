@@ -1,5 +1,5 @@
 # mac-auto-typer
-Auto typing with key binds for mac. Used by content team to simulate keypresses.
+Auto typing with key binds for mac. 
 
 # instructions
 - clone the repository locally
