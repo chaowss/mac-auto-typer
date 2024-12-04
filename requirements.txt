@@ -1,0 +1,7 @@
+pynput==1.7.6
+pyautogui==0.9.54
+PyTweening==1.0.4
+pyscreeze==0.1.28
+pygetwindow==0.0.9
+pymsgbox==1.0.9  
+mouseinfo==0.1.3
